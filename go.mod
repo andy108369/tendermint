@@ -5,7 +5,6 @@ go 1.16
 require (
 	github.com/BurntSushi/toml v0.4.1
 	github.com/adlio/schema v1.1.14
-	github.com/btcsuite/btcd v0.22.0-beta
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/go-kit/kit v0.12.0
@@ -31,6 +30,7 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.9.0
 	github.com/stretchr/testify v1.7.0
+	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7 // indirect
 	github.com/tendermint/tm-db v0.6.4
 	github.com/vektra/mockery/v2 v2.9.4
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
