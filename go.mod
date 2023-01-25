@@ -34,9 +34,9 @@ require (
 	github.com/tendermint/tm-db v0.6.4
 	github.com/vektra/mockery/v2 v2.9.4
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20211005001312-d4b1ae081e3b
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	google.golang.org/grpc v1.42.0
+	golang.org/x/net v0.4.0
+	golang.org/x/sync v0.1.0
+	google.golang.org/grpc v1.52.1
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 	pgregory.net/rapid v0.4.7
 )
